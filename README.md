@@ -3,7 +3,7 @@
 A fully responsive multi-page website built using **HTML**, **CSS**, and **JavaScript**.  
 This project is based on the Frontend Mentor challenge "Space Tourism Website" and includes pages for Home, Destination, Crew, and Technology.
 
-🌐 Live Demo: [View here](https://690a75ae2e7991ae5ed36a6f--journey-to-space.netlify.app/)
+🌐 Live Demo: [View here](https://journey-to-space.netlify.app/)
 
 ---
 
