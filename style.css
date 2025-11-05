@@ -815,3 +815,28 @@ body {
   }
 
 }
+
+.attribution {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    color: var(--clr-white);
+    padding: 8px 16px;
+    border-radius: 12px;
+    font-size: 0.875rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    opacity: 0.85;
+    transition: all 0.3s ease;
+    }
+
+    .attribution:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+    }
+
+    .attribution a {
+    color: var(--clr-white);
+    font-weight: 600;
+    text-decoration: none;
+    }
+
