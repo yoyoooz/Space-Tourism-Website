@@ -3,7 +3,7 @@
 A fully responsive multi-page website built using **HTML**, **CSS**, and **JavaScript**.  
 This project is based on the Frontend Mentor challenge "Space Tourism Website" and includes pages for Home, Destination, Crew, and Technology.
 
-🌐 Live Demo: [View here](https://yoyoooz.github.io/bento-grid/)
+🌐 Live Demo: [View here](https://journey-to-space.netlify.app/)
 
 ---
 
